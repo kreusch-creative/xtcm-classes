@@ -29,7 +29,7 @@ if($cid != 0){
         }
     }
     
-    echo 'ERLEDIGT :-)';
+    echo "I'm done :-)";
     
     
 }
